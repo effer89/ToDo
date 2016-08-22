@@ -9,4 +9,3 @@ nbproject
 .settings
 vendor/*
 composer.phar
-config/autoload/local.php
