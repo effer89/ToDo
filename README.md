@@ -1,8 +1,8 @@
 ## To Do List
 
 **Database:**
-1. Create your database 'todo'
-2. Create the table with
+1. Create your database 'todo'<br />
+2. Create the table with<br />
 
 ```
 CREATE TABLE task
@@ -18,9 +18,9 @@ CREATE TABLE task
     ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
 
-Note: if you need change the name of database, go to '/var/www/to_do/config/autoload/local.php' and change it
-
-**Install:**
-1. git clone https://github.com/effer89/ToDo.git
-2. run composer install
-3. Open on http://localhost/to_do/public  
+Note: if you need change the name of database, go to '/var/www/to_do/config/autoload/local.php' and change it<br />
+<br />
+**Install:**<br />
+1. git clone https://github.com/effer89/ToDo.git<br />
+2. run composer install<br />
+3. Open on http://localhost/to_do/public<br />
