@@ -1,6 +1,6 @@
 ## To Do List
 
-**Database:**
+**Database:**<br />
 1. Create your database 'todo'<br />
 2. Create the table with<br />
 
