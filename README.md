@@ -23,4 +23,4 @@ Note: if you need change the name of database, go to '/var/www/to_do/config/auto
 **Install:**
 1. git clone https://github.com/effer89/ToDo.git
 2. run composer install
-3. Open on http://localhost/to_do/public
+3. Open on http://localhost/to_do/public  
